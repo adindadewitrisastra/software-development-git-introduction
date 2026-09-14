@@ -5,3 +5,12 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah s
 Nama : Adinda Dewi Tri Sastra
 NPM : 2413020077
 Mata Kuliah : Software Development
+
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
+
+## Daftar File
+- README.md
+- perkenalan.md
